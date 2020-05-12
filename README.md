@@ -12,7 +12,7 @@ Only a few have been tested in `Payments` and `Locations`.
 
 **Documentation**
 
-About half of the modules are documented. Note that some of the context written in docs are for Ruby since the docs are
+About half of the modules are documented. Note that some of the context written in the docs are for Ruby since the docs are
 directly being ported from [square-ruby-sdk](https://github.com/square/square-ruby-sdk)
 
 ## Installation
