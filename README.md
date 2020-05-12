@@ -1,4 +1,4 @@
-# SquareElixirSdk
+# square-elixir-sdk
 
 This is an unoffical Square SDK for Elixir (at least for now).
 
